@@ -2,7 +2,7 @@
 # Django Project
 
 
-## Installation
+## Run Locally
 
 To run project
 
@@ -26,6 +26,11 @@ cd chaiaurdjango
 
 python manage.py runserver
 ```
+
+```bash
+http://localhost:8000/tweet/
+```
+
 
 ## Author
 
