@@ -1,6 +1,4 @@
-
-# Django Project
-
+[Live Demo](https://maneonkar.pythonanywhere.com/tweet)
 
 ## Run Locally
 
@@ -36,8 +34,6 @@ http://127.0.0.1:8000/tweet
 
 ![Screenshot](https://github.com/onkarmane-source/django_project/blob/main/Screenshot%202024-11-26%20160009.png)
 ![Screenshot](https://github.com/onkarmane-source/django_project/blob/main/Screenshot%202024-11-26%20160031.png)
-
-[Live Demo](https://maneonkar.pythonanywhere.com/tweet)
 
 ## Author
 
