@@ -32,7 +32,7 @@ http://localhost:8000/tweet/
 
 http://127.0.0.1:8000/tweet
 ```
-
+![Screenshot](https://github.com/onkarmane-source/django_project/blob/main/Screenshot%202024-11-26%20155939.png)
 
 ## Author
 
