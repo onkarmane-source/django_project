@@ -29,6 +29,8 @@ python manage.py runserver
 
 ```bash
 http://localhost:8000/tweet/
+
+http://127.0.0.1:8000/tweet
 ```
 
 
